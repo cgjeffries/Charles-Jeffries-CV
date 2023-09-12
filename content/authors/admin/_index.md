@@ -14,7 +14,7 @@ social:
   - display:
       header: false
     link: https://github.com/cgjeffries
-    icon_pack: far
+    icon_pack: fas
     icon: github
 organizations:
   - name: Stanford University
