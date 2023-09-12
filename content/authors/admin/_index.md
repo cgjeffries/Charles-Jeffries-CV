@@ -1,7 +1,7 @@
 ---
 title: Charles Jeffries
 role: Software Engineering MS Student
-avatar_filename: img_0612.jpeg
+avatar_filename: avatar.jpg
 bio: My interests include machine learning, web services, and robotics
 interests:
   - Machine Learning
@@ -38,5 +38,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-If
-{style="text-align: justify;"} I am a master's student at Arizona State University studying Software Engineering. My interests include web services, machine learning, and robotics. I am currently conducting research for my graduate thesis under Dr. Ajay Bansal applying machine learning to the field of Astronomy. I spend my down time on weekends as a volunteer referee at VEX robotics compeitions locally in Arizona and tinkering with my homelab.
+I am a master's student at Arizona State University studying Software Engineering. My interests include web services, machine learning, and robotics. I am currently conducting research for my graduate thesis under Dr. Ajay Bansal applying machine learning to the field of Astronomy. I spend my down time on weekends as a volunteer referee at VEX robotics compeitions locally in Arizona and tinkering with my homelab.
+{style="text-align: justify;"}
